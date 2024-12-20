@@ -4,14 +4,6 @@
         "start": "node src/app.js",
         "dev": "nodemon src/app.js"
     },
-    "name": "music-library-api",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "git+https://Anshika2203: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@github.com/Anshika2203/music-library-api.git"
-    },
     "keywords": [],
     "author": "",
     "license": "ISC",
